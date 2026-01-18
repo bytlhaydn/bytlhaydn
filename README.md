@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hello, I’m **Beytullah**, a **Computer Engineering student** at **Istanbul University** in a **100% English-taught program**, currently living in **Istanbul, Turkey**. I am highly motivated to build a strong and well-rounded engineering foundation that combines both **theoretical knowledge** and **hands-on practical experience** in computer systems and software development.
 
-<!--
-**bytlhaydn/bytlhaydn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 My main academic interest lies in understanding how modern computer systems work from the lowest level upward. I am particularly interested in **system-level programming**, **computer organization**, and the relationship between **hardware and software**. Rather than treating software as an abstract layer, I focus on understanding how instructions, memory, registers, and hardware components interact to produce reliable and efficient programs.
 
-Here are some ideas to get you started:
+💻 From a technical perspective, I have experience working with **C, C++, x86-64 Assembly, Java, Python, and ABAP**. I am especially comfortable with low-level programming concepts such as memory management, pointer arithmetic, register-level operations, and data structure implementation. Alongside this, I actively develop my software skills by building applications that emphasize clean structure, modularity, and maintainability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Some of my selected projects reflect this dual focus on hardware-aware and software-oriented development. I implemented an **XOR Doubly Linked List** in **x86-64 assembly**, where I worked directly with memory addresses and XOR-based pointer logic to build a memory-efficient data structure. This project significantly strengthened my understanding of low-level data representation and traversal logic.In addition, I developed **TaskFlow App**, a software project centered around task management, where I focused on backend-oriented logic, structured design, and practical software engineering principles. I also built an **OOP Sudoku** project to reinforce object-oriented programming concepts such as class design, encapsulation, abstraction, and problem-solving strategies.
+
+🛠️ I have also gained real-world industry experience through a **3-month internship at Delwork Bilişim**, where I had the opportunity to observe and contribute to professional software development workflows. During this internship, I improved my understanding of how academic knowledge translates into production-level systems, strengthened my problem-solving skills, and gained exposure to collaborative development practices, version control, and real project constraints.
+
+🔧 Currently, I am working on projects that span both **hardware-oriented domains**, including **chip design and computer architecture**, and **software-focused development**. On the hardware side, I aim to deepen my understanding of how processors, memory hierarchies, and low-level components are designed and interact. On the software side, I continue to build backend-oriented projects to improve my ability to design reliable, scalable, and well-structured systems.
+
+🎯 My long-term goal is to develop a strong profile in **hardware-oriented and low-level systems**, such as computer organization, architecture, and system programming, while also becoming proficient in **software and backend development**. I believe that combining these two perspectives enables a deeper understanding of computing systems and allows me to build software that is both efficient and robust.
+
+📈 I am continuously improving myself through academic coursework, personal projects, and hands-on experimentation. I value clarity, correctness, and deep understanding over superficial solutions, and I aim to grow as an engineer who can confidently work across the boundary between hardware and software.
