@@ -13,5 +13,7 @@
 🎯 My long-term goal is to develop a strong profile in **hardware-oriented and low-level systems**, such as computer organization, architecture, and system programming, while also becoming proficient in **software and backend development**. I believe that combining these two perspectives enables a deeper understanding of computing systems and allows me to build software that is both efficient and robust.
 
 📈 I am continuously improving myself through academic coursework, personal projects, and hands-on experimentation. I value clarity, correctness, and deep understanding over superficial solutions, and I aim to grow as an engineer who can confidently work across the boundary between hardware and software.
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bytlhaydn&show_icons=true&hide=issues,prs&hide_border=true&theme=transparent)
+
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,abap" />
 
